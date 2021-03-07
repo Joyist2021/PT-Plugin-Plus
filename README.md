@@ -9,6 +9,12 @@
 
 ---
 
+PT助手白大增强版 #705
+
+https://github.com//ronggang/PT-Plugin-Plus/discussions/705
+
+来自 IYUU 2群的群友通过在options页面中外挂脚本的形式对PTPP进行了相关扩展，包括 新增等级升级显示、升级日历、延长cookie时间、一键签到、流量条 等功能。
+
 ## 关于
 
 PT 助手 Plus，是一款浏览器插件（Web Extensions），一个可以提升 PT 站点使用效率的工具。
